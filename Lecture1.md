@@ -33,12 +33,21 @@ Four main principles of OOP:
 
 ## Abstraction
 
-Abstraction is...
+- In the middle of inhertiance and encapsulation
+- Hiding complexity
+- Avoiding have to re-invent the wheel and reduce burden
+
+
+- Prevents code repetition
+- Improves flexibility
+- Working in large teams
 
 ## Inheritance
 
-Inheritance is...
+- Modular (Standalone)
+- Reusuability
+- Less development
 
 ## Polymorphism
 
-Polymorphism is...
+- Change a few things instead of everything
